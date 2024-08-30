@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Book-selling.git/static/css/main.c4174970.css",
+    "main.js": "/Book-selling.git/static/js/main.91216b5f.js",
+    "static/js/453.ed3810f9.chunk.js": "/Book-selling.git/static/js/453.ed3810f9.chunk.js",
+    "static/media/bookCover.jpg": "/Book-selling.git/static/media/bookCover.54168c96a9fa16f32b46.jpg",
+    "static/media/bookthought3.jpg": "/Book-selling.git/static/media/bookthought3.505e92026c079961598f.jpg",
+    "static/media/bookthought.jpg": "/Book-selling.git/static/media/bookthought.e38338446466a9155b78.jpg",
+    "static/media/karan edit.jpg": "/Book-selling.git/static/media/karan edit.35aeb7f6868650bf251e.jpg",
+    "static/media/logo.svg": "/Book-selling.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Book-selling.git/index.html",
+    "static/media/shopping-cart.svg": "/Book-selling.git/static/media/shopping-cart.b328229666fc079ac860807180156a48.svg",
+    "static/media/faders-horizontal.svg": "/Book-selling.git/static/media/faders-horizontal.c0ab2ae7a34370d260bcb3ad60311071.svg",
+    "static/media/searchIcon.svg": "/Book-selling.git/static/media/searchIcon.3e120dff0a838138f173e4be66d113df.svg",
+    "main.c4174970.css.map": "/Book-selling.git/static/css/main.c4174970.css.map",
+    "main.91216b5f.js.map": "/Book-selling.git/static/js/main.91216b5f.js.map",
+    "453.ed3810f9.chunk.js.map": "/Book-selling.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4174970.css",
+    "static/js/main.91216b5f.js"
+  ]
+}
